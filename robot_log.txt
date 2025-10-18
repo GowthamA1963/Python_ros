@@ -1,0 +1,4 @@
+Robot initialized successfully.
+Robot Name: Chitti
+Task Status: Idle
+Battery Level: 85%
